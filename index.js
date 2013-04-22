@@ -1,6 +1,34 @@
 ﻿{
    "gs":[
    {
+        "name":"slide",
+        "desc":"Tab切换，分层动画，幻灯，支持触屏"
+    },
+   {
+        "name":"city-selector",
+        "desc":"城市选择"
+    },
+    {
+        "name":"calendar",
+        "desc":"旅行日历"
+    },
+    {
+        "name":"anti-ie6",
+        "desc":"ie6 提示层"
+    },
+    {
+        "name":"tooltip",
+        "desc":"小提示层"
+    },
+    {
+        "name":"sizzle",
+        "desc":"选择器引擎"
+    },
+   {
+        "name":"moment",
+        "desc":"日期时间库"
+   },
+   {
         "name":"kcharts",
         "desc":"全面的图表组件"
    },
@@ -19,30 +47,6 @@
    {
         "name":"ua-extra",
         "desc":"国产浏览器探测"
-   },
-   {
-        "name":"suggest",
-
-        "desc":"原 KISSY 1.3 Suggest"
-    },
-    {
-        "name":"template",
-
-        "desc":"原 KISSY 1.3 Template"
-    },
-    {
-        "name":"validation",
-
-        "desc":"原 KISSY 1.3 Validation"
-    },
-    {
-        "name":"flash",
-
-        "desc":"原 KISSY 1.3 flash"
-    },
-    {
-        "name":"graph",
-        "desc":"图表"
    },
    {
         "name":"velocity",
@@ -65,11 +69,6 @@
         "desc":"表格 grid"
     },
     {
-        "name":"chart",
-
-        "desc":"Kissy 图表引擎，提供条形图，折线图基于HTML5 Canvas， 支持IE"
-    },
-    {
         "name":"countdown",
 
         "desc":"倒计时组件"
@@ -90,6 +89,26 @@
 
         "desc":"滚动条组件"
     },
+   {
+        "name":"suggest",
+
+        "desc":"原 KISSY 1.3 Suggest"
+    },
+    {
+        "name":"template",
+
+        "desc":"原 KISSY 1.3 Template"
+    },
+    {
+        "name":"validation",
+
+        "desc":"原 KISSY 1.3 Validation"
+    },
+    {
+        "name":"flash",
+
+        "desc":"原 KISSY 1.3 flash"
+    },   
     {
         "name":"starrating",
 
@@ -179,19 +198,11 @@
 
         "desc":"分页"
     },
-    
-    {
-        "name":"checkcode",
-
-        "desc":"验证码"
-    },
-    
     {
         "name":"wwgroup",
 
         "desc":"ww 点灯"
     },
-    
     {
         "name":"browsercache",
 
@@ -202,7 +213,6 @@
 
         "desc":"mustache 模板引擎"
     },
-    
     {
         "name":"urlparser",
 
@@ -213,20 +223,15 @@
 
         "desc":"适用 KISSY 1.2 的自动 combo patch"
     },
-     {
+    {
         "name":"easycountdown",
 
         "desc":"倒计时组件，不同于传统倒计时组件的实现方式，容易扩展"
     },
     {
-        "name":"digital-clock",
+        "name":"checkcode",
 
-        "desc":"数字时钟"
-    },
-    {
-        "name":"selectable",
-
-        "desc":"选择/下拉框"
+        "desc":"语音验证码"
     }
    ]
 }
